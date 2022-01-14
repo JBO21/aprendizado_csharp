@@ -95,9 +95,8 @@ namespace Revisao
                 
                 opcaoUsuario = ObterOpcaoUsuario();
             }
-
+            Console.WriteLine("Saindo.... Obrigado! Volte Sempre!");
         }
-
         private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
@@ -110,6 +109,7 @@ namespace Revisao
 
             string opcaoUsuario = Console.ReadLine();
             Console.WriteLine();
+
             return opcaoUsuario;
         }
     }
