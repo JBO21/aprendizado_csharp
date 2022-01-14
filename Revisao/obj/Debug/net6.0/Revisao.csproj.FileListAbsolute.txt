@@ -1,0 +1,15 @@
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\Revisao.exe
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\Revisao.dll
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+D:\Localiza_Labs\aprendizado_csharp\Revisao\bin\Debug\net6.0\Revisao.pdb
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.dll
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.pdb
+D:\Localiza_Labs\aprendizado_csharp\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
